@@ -7,6 +7,7 @@ $fw-bold: 700;
 // Font Sizes
 
 $fs-body: 1.125rem;
+$fs-body-desk: 1.25rem;
 
 // Colors
 
@@ -15,7 +16,13 @@ $softPink: hsl(333, 80%, 67%);
 $darkGrayishMagenta: hsl(303, 10%, 53%);
 $lightGrayishMagenta: hsl(300, 24%, 96%);
 $white: hsl(0, 0%, 100%);
+$softMagenta: hsl(300, 69%, 71%);
+$electricBlue: hsl(242, 88%, 49%);
 
 // Margins
 
 $mt-bottom: 1rem;
+
+// Buttons
+
+$transition: ease-in-out 0.3s;
